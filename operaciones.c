@@ -19,7 +19,7 @@ int multiplicar(int a, int b) {
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
-
+/* Recibe un número y devuelve si el mismo es Par o no con el uso del operador %*/
 int esPar(int n) {
     return (n % 2) == 0;
 }

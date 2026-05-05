@@ -21,5 +21,5 @@ int multiplicar(int a, int b) {
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 /* Recibe un número y devuelve 1 verdadero o 0 falso*/
 int esPar(int n) {
-    return (n % 2) == 0; /* version main */
+    return (n % 2) == 0; 
 }
